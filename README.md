@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Lzengp
-- Come on, work hard
+- A front-end developer
