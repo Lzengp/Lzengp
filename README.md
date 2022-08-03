@@ -7,7 +7,7 @@ Focus on front-end technology to help people design complex applications more si
 -   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React/TypeScript/Less
 -   :pencil2: Zhihu:[longwei](https://www.zhihu.com/people/lzengp)
 -   :key: Email: 1786082175@qq.com
--   :house_with_garden: Guangzhou
+-   :house_with_garden: HengYang
 -   :school: Hunan University of Science and Technology
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lzengp.readme)
