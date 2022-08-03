@@ -1,8 +1,6 @@
-### 👋 Hi there, Welcome to my GitHub Homepage
+### 👋 Hi there, 欢迎来到我GitHub主页
 
-My name is long Wei. I am a frontend developer living in Guangzhou.
-
-Focus on front-end technology to help people design complex applications more simple and easy to use, and optimize the user experience while realizing functions.
+I'm LongWei (龙伟) .
 
 -   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React/TypeScript/Less
 -   :pencil2: Zhihu:[longwei](https://www.zhihu.com/people/lzengp)
