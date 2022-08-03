@@ -1,19 +1,18 @@
-- 👋 Hi, I’m @Lzengp
-- A front-end developer
+### 👋 Hi there, Welcome to my GitHub Homepage
 
-### 👋 Hi, 欢迎来到我的 GitHub 主页
+My name is long Wei. I am a frontend developer living in Guangzhou.
 
-我叫龙伟，是一名生活在广州的前端开发者。
+Focus on front-end technology to help people design complex applications more simple and easy to use, and optimize the user experience while realizing functions.
 
-目前我正在专注于前端技术，帮助人们把复杂的应用设计得更简单易用，实现功能的同时优化用户的使用体验。
-
-我喜欢追逐创意，生活中我会花很多时间去观察和使用一些优秀的产品应用，从中学习他们获得成功的经验，并以此激发我的创作灵感。
-
-想了解我更多吗？来我的 [个人网站 · 作品集](https://leoku.top) 逛逛吧 🙆🏻‍♂️。
-
+-   :hammer_and_pick: JavaScript/Css3/Html5/Vue/React/TypeScript/Less
+-   :pencil2: Zhihu:[longwei](https://www.zhihu.com/people/lzengp)
+-   :key: Email: 1786082175@qq.com
+-   :house_with_garden: Guangzhou
+-   :school: Hunan University of Science and Technology
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lzengp.readme)
 
+---
 
 📊 **some stats**
 
@@ -29,3 +28,5 @@
     </tr>
   </tbody>
 </table>
+
+---
