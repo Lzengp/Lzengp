@@ -4,6 +4,7 @@
 
 -   :pencil2: 知乎:[longwei](https://www.zhihu.com/people/lzengp)
 -   :key: Email: 1786082175@qq.com
+-   📧: longweidd@gmail.com
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lzengp.readme)
 
